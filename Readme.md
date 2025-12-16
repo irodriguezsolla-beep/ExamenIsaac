@@ -33,6 +33,7 @@ Primero hacemos un git fetch origin Ejecuta para descargar el commit remoto sin 
 ![img_1.png](img_1.png)
 
 Despues hacemos un  git log main..origin/main para verifica los nuevos commits que se acaban de descargar y que están en el remoto.
+
 ![img_2.png](img_2.png)
 
 Por tercero hacemos un git merge origin/main para la fusión manual.
