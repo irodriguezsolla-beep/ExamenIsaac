@@ -39,7 +39,7 @@ Despues hacemos un  git log main..origin/main para verifica los nuevos commits q
 Por tercero hacemos un git merge origin/main para la fusión manual.
 ![img_3.png](img_3.png)
  .
- 
+### Apartado 3
 hola
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
@@ -47,7 +47,13 @@ hola
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
-Por ultimo hacemos cambios tanto al git en el repositorio como en el local y lanzamos git pull --rebase.
+
+Priero escribi en el readme cabio
+![img_6.png](img_6.png)
+ 
+Despues hacemos hacemos cambios tanto al git en el repositorio como en el local y lanzamos git pull --rebase.
 
 ![img_5.png](img_5.png)
-### Apartado 3
+
+Y nostrae el cambio que hicimos en el repositorio online al local.
+![img_7.png](img_7.png)
