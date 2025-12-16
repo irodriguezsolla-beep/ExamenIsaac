@@ -39,7 +39,9 @@ Despues hacemos un  git log main..origin/main para verifica los nuevos commits q
 Por tercero hacemos un git merge origin/main para la fusión manual.
 ![img_3.png](img_3.png)
  .
+ Por ultimo hacemos cambios tanto al git en el repositorio como en el local y lanzamos git pull --rebase.
 
+![img_5.png](img_5.png)
 ### Apartado 3
 hola
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
