@@ -28,6 +28,15 @@ foto del nuevo repositorio
 - Modificacion para ele ejer 2
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
+ 
+Primero hacemos un git fetch origin Ejecuta para descargar el commit remoto sin fusionar.
+![img_1.png](img_1.png)
+
+Despues hacemos un  git log main..origin/main para verifica los nuevos commits que se acaban de descargar y que están en el remoto.
+![img_2.png](img_2.png)
+
+Por tercero hacemos un git merge origin/main para la fusión manual.
+![img_3.png](img_3.png)
 
 ### Apartado 3
 
