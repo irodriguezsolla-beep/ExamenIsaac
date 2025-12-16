@@ -41,7 +41,7 @@ Por tercero hacemos un git merge origin/main para la fusión manual.
  .
 
 ### Apartado 3
-
+hola
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
