@@ -1,4 +1,4 @@
-# Examen 1ª Evaluación (2ª Parte) - Control de Versiones
+segundo cambio# Examen 1ª Evaluación (2ª Parte) - Control de Versiones
 
 ---
 Isaac Rodríguez Solla
@@ -38,9 +38,7 @@ Despues hacemos un  git log main..origin/main para verifica los nuevos commits q
 
 Por tercero hacemos un git merge origin/main para la fusión manual.
 ![img_3.png](img_3.png)
- 
-Por ultimo hacemos git pull --rebase para para mantener un historial de commits completamente lineal
-![img_4.png](img_4.png)
+ .
 
 ### Apartado 3
 
