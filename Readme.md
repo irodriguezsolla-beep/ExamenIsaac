@@ -1,7 +1,7 @@
 # Examen 1ª Evaluación (2ª Parte) - Control de Versiones
 
 ---
-
+Isaac Rodríguez Solla
 ## Instrucciones
 - Los commits de cada apartado deben tener el mensaje *"Apartado X - descripción del cambio realizado"*
 - Entrega en la tarea de Moodle tu repositorio
@@ -15,6 +15,11 @@
 Pregunta 
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+Le paso fudamental es cambiar el link del repositrio, para esto en el apartado de git de pycharm vamos a manege remotes,
+eliminaremos el link del repositorio copiado y agragremos el de nuestro propio reposiotio.
+
+![img.png](img.png)
+foto del nuevo repositorio
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
