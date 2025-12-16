@@ -19,6 +19,7 @@ Le paso fudamental es cambiar el link del repositrio, para esto en el apartado d
 eliminaremos el link del repositorio copiado y agragremos el de nuestro propio reposiotio.
 
 ![img.png](img.png)
+
 foto del nuevo repositorio
 ### Apartado 2
 
